@@ -11,7 +11,7 @@ This project analyzes three different datasets: Car Evaluation, Iris, and Zoo. T
 ## Features
 ### Data Preprocessing:
 - Ordinal Encoding for binary features (e.g., "hair", "feathers" in the zoo dataset) to represent true/false values.
-- One-Hot Encoding for multi-class categorical features (e.g., "legs" in the zoo dataset, "doors" in the car dataset). Handling numerical features in the Iris dataset.
+- One-Hot Encoding for multi-class categorical features (e.g., "legs" in the zoo dataset). Handling numerical features in the Iris dataset.
   
 ### Data Cleaning: 
 - Removal of missing or inconsistent data to ensure accurate analysis.

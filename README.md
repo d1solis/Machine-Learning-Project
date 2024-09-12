@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Supervised-Machine-Learning-Project
 
 ## Overview
 This project analyzes three different datasets: Car Evaluation, Iris, and Zoo. The analysis is performed using various data science techniques and visualizations. The primary goal is to explore various classification algorithms, handle different data types, and evaluate model performance across diverse datasets.
